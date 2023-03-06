@@ -8,6 +8,8 @@
 
 👨🏻‍💻 With a goal of applying data analytics to all facets of marketing, I am seeking for opportunities to collaborate on market research, data analysis, and machine learning projects.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 **Professional Skills**
 
 Product Analysis & Development | Marketing Research | Consulting | Financial Analysis | IPO Prep | Strategic Planning | Product Roadmap | Python | RStudio | Tableau | Google Sheets | Microsoft Suites
