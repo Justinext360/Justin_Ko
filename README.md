@@ -11,3 +11,7 @@
 **Professional Skills**
 
 Product Analysis & Development | Marketing Research | Consulting | Financial Analysis | IPO Prep | Strategic Planning | Product Roadmap | RStudio | Tableau | Google Sheets | Microsoft Excel
+
+**Email:** jk3938@columbia.edu
+
+**LinkedIn:** https://www.linkedin.com/in/justin-ko-b933a4194/
