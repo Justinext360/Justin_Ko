@@ -9,4 +9,5 @@
 👨🏻‍💻 With a goal of applying data analytics to all facets of marketing, I am looking to collaborate on market research, data analysis, and machine learning-related projects.
 
 **Professional Skills**
+
 Product Analysis & Development | Marketing Research | Consulting | Financial Analysis | IPO Prep | Strategic Planning | Product Roadmap | RStudio | Tableau | Google Sheets | Microsoft Excel
