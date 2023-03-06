@@ -10,7 +10,7 @@
 
 **Professional Skills**
 
-Product Analysis & Development | Marketing Research | Consulting | Financial Analysis | IPO Prep | Strategic Planning | Product Roadmap | RStudio | Tableau | Google Sheets | Microsoft Excel
+Product Analysis & Development | Marketing Research | Consulting | Financial Analysis | IPO Prep | Strategic Planning | Product Roadmap | Python | RStudio | Tableau | Google Sheets | Microsoft Suites
 
 **Email:** jk3938@columbia.edu
 
